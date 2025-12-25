@@ -153,9 +153,10 @@ http://localhost:3000/quizzes
 4. For `CHECKBOX` questions, add answer options
 
 5. Click **Create Quiz**
+<img width="1611" height="885" alt="image" src="https://github.com/user-attachments/assets/a8761dde-56e0-4c4a-8547-b129914dacc2" />
 
-<img width="1566" height="873" alt="image" src="https://github.com/user-attachments/assets/c6e31a24-e4f5-4b0a-8a9b-c77c37b3b6e1" />
-<br />
-<img width="1594" height="663" alt="image" src="https://github.com/user-attachments/assets/efaefbe4-4017-4b85-97e0-05b8ff65b012" />
-<br />
-<img width="1579" height="611" alt="image" src="https://github.com/user-attachments/assets/aa8a053d-26c4-4a0e-bbb2-23e0a2078744" />
+<br/>
+<img width="1598" height="640" alt="image" src="https://github.com/user-attachments/assets/adb79b0b-bae0-49e9-9610-2850c2568ac8" />
+<br/>
+<img width="1600" height="689" alt="image" src="https://github.com/user-attachments/assets/a786832a-5040-42f4-b28e-348b16439884" />
+
